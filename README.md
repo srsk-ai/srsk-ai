@@ -1,88 +1,137 @@
-# Hi there, I'm Sreyas 👋
+<h1 align="center">Hi 👋, I'm Sreyas</h1>
 
-### 🚀 AI & Data Science Student | Future Data Scientist & AI Engineer
+<h3 align="center">
+🚀 AI & Data Science Student | Future Data Scientist & AI Engineer
+</h3>
 
-> ⚡ Powered by Curiosity. Driven by Code. Building with AI.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Powered+by+Curiosity.;Driven+by+Code.;Building+with+AI.;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision.;Photographer+%7C+Tech+Enthusiast." />
+</p>
 
-🎓 B.Tech in Artificial Intelligence & Data Science @ Amrita Vishwa Vidyapeetham
+## 🌐 Connect With Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
 
-## 👨‍💻 About Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_LINK)
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_LINK)
 
-📊 Interested in Data Analytics, Deep Learning, Computer Vision & Intelligent Systems
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-💡 Love building projects that solve real-world problems
+## 🚀 About Me
+
+🎓 B.Tech Artificial Intelligence & Data Science
+
+🤖 Passionate about AI, Machine Learning and Data Science
+
+📊 Exploring Data Analytics, Deep Learning & Computer Vision
+
+📸 Award Winning Photographer
 
 🚗 Automobile Technology Enthusiast
 
-📸 Award-Winning Photographer
+🎮 Gamer & Technology Explorer
 
-🌱 Constantly learning and improving every day
+🌱 Learning something new every day
 
----
 
-## 🔭 Currently Working On
+## 💻 Tech Stack
 
-🚀 AI & Data Science Projects
+### Programming
 
-🧠 Machine Learning & Deep Learning
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-👁️ Computer Vision Applications
-
-📈 Data Analytics & Visualization
-
-💻 Strengthening Problem Solving & Development Skills
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### AI / Data Science
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0288D1?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 🏆 Achievements
+## 🤖 AI / ML
 
-🥇 First Prize – Spot Photography Competition
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-📷 Selected for Inter-Amrita Photography Competition
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-🎯 AI & Computer Vision Project Developer
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
----
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 📈 Career Goal
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-Building expertise in Artificial Intelligence, Data Science, Machine Learning, Deep Learning, and Intelligent Systems to create impactful technology solutions.
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-## 📫 Connect With Me
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
-💼 LinkedIn: Your LinkedIn Link
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-📧 Email: Your Email
 
-🌐 Portfolio: Coming Soon
+## 📸 Photography & Creative Tools
 
----
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 
-### ⭐ "Learning Today. Building Tomorrow. Improving Forever."
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+![Filmora](https://img.shields.io/badge/Filmora-07273D?style=for-the-badge)
+
+![VN](https://img.shields.io/badge/VN_Editor-000000?style=for-the-badge)
+
+
+## 🎮 Gaming Platforms
+
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
+
+![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
+
+![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white)
+
+![EA](https://img.shields.io/badge/EA-000000?style=for-the-badge&logo=ea&logoColor=white)## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+
+<h3 align="center">
+⚡ Powered by Curiosity. Driven by Code. Building with AI.
+</h3>
