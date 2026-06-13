@@ -2,12 +2,6 @@
 
 **B.Tech Artificial Intelligence & Data Science Student @ Amrita Vishwa Vidyapeetham**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=AI+%26+Machine+Learning+Explorer+🧠;Computer+Vision+Developer+👁️;Data+Science+Enthusiast+📊;Award-Winning+Photographer+📸" />
-<br>
-
-
-<br><br>
-
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
