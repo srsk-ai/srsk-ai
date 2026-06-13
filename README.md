@@ -1,14 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=180&section=header&text=Sreyas&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-
-<div align="center">
-
 ## 👋 Hey, I'm Sreyas
 
 **B.Tech Artificial Intelligence & Data Science Student @ Amrita Vishwa Vidyapeetham**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=AI+%26+Machine+Learning+Explorer+🧠;Computer+Vision+Developer+👁️;Data+Science+Enthusiast+📊;Award-Winning+Photographer+📸" />
 <br>
-<img src="https://komarev.com/ghpvc/?username=srsk-ai&label=Profile+Views&color=00E5FF&style=flat"/>
+
 
 <br><br>
 
