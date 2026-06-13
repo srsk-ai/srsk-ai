@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I am an aspiring **AI Engineer and Data Scientist** passionate about building intelligent solutions that create real-world impact. Currently mastering the intersection of Machine Learning, Deep Learning, and Computer Vision, I thrive on turning complex data into actionable insights. Beyond the terminal, I am an award-winning photographer who loves blending creativity with technology.
+I am an aspiring **AI Engineer and Data Scientist** passionate about building intelligent solutions that create real-world impact. Currently mastering the intersection of Machine Learning, Deep Learning, and Computer Vision, Big Data, HPC&Cloud, Social Network Analytics, IoT & Robotics. I thrive on turning complex data into actionable insights. Beyond the terminal, I am an award-winning photographer who loves blending creativity with technology.
 
 - 💼 **Open To:** Roles in AI Engineering, Data Science, Machine Learning, and Computer Vision.
 - 🌱 **Currently Focusing On:** Advanced Deep Learning architectures and scaling AI applications.
